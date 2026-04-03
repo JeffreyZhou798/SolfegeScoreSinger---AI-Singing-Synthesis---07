@@ -88,17 +88,18 @@ Visit my ModelScope Space for instant access:
 
 ## 📊 Example Outputs
 
-### Single Voice Examples
+### Single Voice Example
 
 | Score | Description | Output |
 |-------|-------------|--------|
 | **Twinkle Twinkle Little Star (Solo)** | Simple melody, single voice | `output twinkle-twinkle-little-star（Solo）.wav` |
-| **Lightly Row (Piano)** | Piano piece, single melody line | `output lightly-row-Piano.wav` |
 
 ### Multi-Voice Examples
 
 | Score | Description | Output |
 |-------|-------------|--------|
+| **Lightly Row (Piano)** | Piano piece with multiple voices | `output lightly-row-Piano.wav` |
+| **Twinkle Twinkle Little Star (Broken Chord)** | Broken chord accompaniment pattern | `output Twinkle Twinkle Little Star（broken chord）.wav` |
 | **Twinkle Twinkle Little Star (Piano 2-Voice)** | Two-hand piano arrangement | `output twinkle-twinkle-little-star-piano-2-voicing.wav` |
 
 All examples can be found in the `Generated example/` directory.
