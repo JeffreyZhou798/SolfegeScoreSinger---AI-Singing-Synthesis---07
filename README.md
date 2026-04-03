@@ -40,7 +40,7 @@ SolfegeScoreSinger is an AI-powered singing synthesis system that converts music
 
 ### Online Demo (Recommended)
 
-Visit our ModelScope Space for instant access:  
+Visit my ModelScope Space for instant access:  
 **👉 [https://www.modelscope.cn/studios/JeffreyZhou2026/Solfege-Score-Singer-07](https://www.modelscope.cn/studios/JeffreyZhou2026/Solfege-Score-Singer-07)**
 
 ### How to Use
