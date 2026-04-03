@@ -55,6 +55,7 @@ Visit our ModelScope Space for instant access:
    - Click **"Stop Recording"** when done
    - Use **"Re-record"** if needed
 3. You can also upload pre-recorded audio files instead
+4. Note: You can download the generated audio by clicking the **download icon** in the upper right corner of the preview window.
 
 **Built-in Voice Option**: Don't want to record? Use the default child voice (`DefaultVoice_Child`) provided in the system.
 
