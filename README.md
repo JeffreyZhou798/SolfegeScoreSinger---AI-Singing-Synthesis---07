@@ -5,7 +5,7 @@
 [![Gradio](https://img.shields.io/badge/Gradio-6.2.0-orange)](https://gradio.app/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-**🎵 Try it now**:   [ModelScope Space]([https://www.modelscope.cn/studios/JeffreyZhou2026/Solfege-Score-Singer-07]) https://www.modelscope.cn/studios/JeffreyZhou2026/Solfege-Score-Singer-07
+**🎵 Try it now**:   [ModelScope Space](https://www.modelscope.cn/studios/JeffreyZhou2026/Solfege-Score-Singer-07) https://www.modelscope.cn/studios/JeffreyZhou2026/Solfege-Score-Singer-07
 
 ---
 
